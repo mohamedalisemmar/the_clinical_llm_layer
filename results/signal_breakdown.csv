@@ -1,0 +1,8 @@
+signal,flagged on incorrect outputs,flagged on correct outputs
+Agreement across prompting strategies,1.0,0.29
+Completeness of requested fields,0.0,0.0
+Consistency across repeated answers,1.0,0.33
+Contradictions,1.0,0.0
+Inconsistencies in the case data,0.0,0.12
+Missing information,0.0,0.21
+Model's stated confidence (supplementary),0.0,0.21

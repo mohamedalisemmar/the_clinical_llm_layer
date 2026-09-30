@@ -1,0 +1,6 @@
+,LLM only,LLM + layer,Ratio (layer / only)
+LLM calls per case,1.0,10.0417,10.0
+"Generation time per case (s, sequential)",0.0,0.0,
+Input tokens per case,194.7917,4164.4583,21.4
+Output tokens per case,110.7083,1085.4583,9.8
+Estimated cost per case (USD),0.0007,0.0096,12.8

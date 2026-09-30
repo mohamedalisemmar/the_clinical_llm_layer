@@ -1,0 +1,6 @@
+category,factors,missing (critical),alternatives,has 'what would change',empty sections
+ambiguous,3.83,0.0,3.0,1.0,0.0
+contradictory_input,3.67,0.0,3.0,1.0,0.0
+missing_information,3.2,4.0,3.0,1.0,0.0
+seeded_error,2.0,0.0,3.0,1.0,0.0
+straightforward,4.0,0.0,3.0,1.0,0.0

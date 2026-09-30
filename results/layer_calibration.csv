@@ -1,0 +1,4 @@
+layer_reliability,correct,incorrect,share_correct
+LOW,4,6,0.4
+MODERATE,10,0,1.0
+HIGH,10,0,1.0

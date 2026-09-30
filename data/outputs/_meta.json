@@ -1,0 +1,7 @@
+{
+  "provider": "mock",
+  "model": "mock-clinical-simulator",
+  "n_samples": 5,
+  "sample_temperature": 1.0,
+  "updated_at": "2026-09-30T20:03:48+00:00"
+}
